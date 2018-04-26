@@ -398,7 +398,7 @@
       </ul>
       <p class="markup">
         <span class="component">Title:</span> The title of the current markup group. This defaults to [untitled] for new markup groups. 
-        Change this to a short phase which accurately describes the markup group.
+        Change this to a short phrase which accurately describes the markup group.
       </p>
       <p class="markup">
         <img src="Images/Help/MarkupColorSelector.png" alt="color selector" class="imgRight" />
